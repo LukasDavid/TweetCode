@@ -12,9 +12,9 @@ __ __|                   |         ___|             |
      /     \  __  /    ------
     / /     \(..)/    -----       Coded by: Lukas de Antueno
    //////   ' \/ `   ---	 
-  //// / // :    : ---		  YouTube: https://www.youtube.com/channel/UCodG8tie7EWSGhoshtaGplg
+  //// / // :    : ---		  
  // /   /  /`    '--		 
-//          //..\\		  Email: lukasdaviddeantuenoisrael@gmail.com
+//          //..\\		  
        ====UU====UU====                                        
 """
 print(banner)
